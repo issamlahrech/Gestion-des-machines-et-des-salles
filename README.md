@@ -12,15 +12,19 @@ Suppression d'entrées de la base de données : Les utilisateurs ont également 
 Cette page JSP facilite la gestion des informations sur les machines en offrant une interface conviviale pour consulter, ajouter, modifier et supprimer des entrées dans la base de données.
 
 # Schema relationnel de la base de données
-![image](https://github.com/issamlahrech/jspservlet/assets/147448984/fac7e2da-0d9d-4a64-9ca8-e48edb2fbe78)
+
+![image](https://github.com/issamlahrech/jspservlet/assets/147448984/9ede3340-54da-4c72-ab6b-93566da75e12)
+
 
 # Structure du projet
-![image](https://github.com/issamlahrech/jspservlet/assets/147448984/7ff665dc-d10f-4051-91c2-b8488a2900a2)
+![image](https://github.com/issamlahrech/jspservlet/assets/147448984/d06cf74d-9d30-469b-b2b2-ebd746a422d9)
+
 
 # Captures d`ecran :
-![image](https://github.com/issamlahrech/jspservlet/assets/147448984/36875dcc-66e4-4252-9377-e780de6520ab)
+![image](https://github.com/issamlahrech/jspservlet/assets/147448984/ae6be5b6-82a8-4aba-b1ee-367c204ee73a)
 
-![image](https://github.com/issamlahrech/jspservlet/assets/147448984/cce037e6-4556-44d1-98b5-7c2a5cd6bb3b)
+![image](https://github.com/issamlahrech/jspservlet/assets/147448984/244fde5f-b4b6-4168-928e-f051b63a091b)
+
 
 # Technologies utilises :
 - JSP (JavaServer Pages) 
